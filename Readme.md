@@ -145,8 +145,6 @@ Future extensions may include visual embeddings (CLIP/Vision Transformer) to lev
 
 ### **A. Code Artefacts**
 
-**Drive/GitHub Link:** [Drive code link](https://drive.google.com/drive/folders/1Z4VxcGbtBUt9wDvwWRRcFpN2IswHycK3?usp=sharing)
-
 Files saved:
 
 * `lgbm_model.txt`
@@ -178,3 +176,4 @@ Files saved:
 | Objective                | Refined SMAPE              | Align with competition metric        |
 
 ---
+
